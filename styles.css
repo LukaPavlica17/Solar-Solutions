@@ -19,11 +19,6 @@ a {
   text-decoration: none;
 }
 
-header {
-  display: block;
-  text-align: center;
-}
-
 #nav-bar {
   position: fixed;
   top: 0px;
