@@ -19,6 +19,7 @@ a {
   text-decoration: none;
 }
 
+
 #nav-bar {
   position: fixed;
   top: 0px;
@@ -85,14 +86,13 @@ align-items: center;
 
 }
 .mono, .polo, .thin{
-  height: 600px;
-  width: 450px;
+  height: 400px;
   padding-top: 20px;
   padding-bottom: 20px;
   display: block;
   margin-left: auto;
   margin-right: auto;
- 
+  width: 70%;
   
 }
 h3{
