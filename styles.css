@@ -17,8 +17,9 @@ a {
   text-decoration: none;
 }
 
-#header {
+header {
   display: flex;
+  text-align: center;
 }
 
 #nav-bar {
@@ -93,7 +94,7 @@ align-items: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
+  width: 400px;
   
 }
 h3{
