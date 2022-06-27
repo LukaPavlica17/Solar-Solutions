@@ -20,6 +20,7 @@ a {
 }
 
 
+
 #nav-bar {
   position: fixed;
   top: 0px;
@@ -77,6 +78,8 @@ align-items: center;
 
 #header-img{
   padding-top: 5rem;
+  width: 400px;
+  height: 250px;
 }
 #header{
   padding-top: 5rem;
@@ -86,13 +89,13 @@ align-items: center;
 
 }
 .mono, .polo, .thin{
-  height: 400px;
+  height: 700px;
   padding-top: 20px;
   padding-bottom: 20px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
+  width: 600px;
   
 }
 h3{
@@ -108,11 +111,12 @@ h3{
 #features .feature i {
   color: #ff8c00;
 }
-iframe{
+ .video{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 80%;
+  width: 700px;
+  height: 300px;
   border-bottom: 20px;
 }
 
